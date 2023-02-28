@@ -1,0 +1,9 @@
+[
+    {
+        "name":"Samsung TV",
+        "Price":"35000.42",
+        "stock":"true",
+        "rating":{"rate":4.5, "count":6000},
+        "photo":"../public/Image/Tv.webp"
+    }
+]
